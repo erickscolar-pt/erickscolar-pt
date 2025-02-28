@@ -1,7 +1,4 @@
 <h1 align="center">Olá, eu sou o Erick Scolar! 🚀</h1>
-<p align="center">
-  <img src="https://github.com/erickscolar-pt/erickscolar-pt/raw/main/banner.png" alt="Banner Erick Scolar">
-</p>
 
 ## 🚀 Sobre mim  
 Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Trabalho com **Java, TypeScript, JavaScript** e frameworks como **Spring Boot, NestJS, Angular e React**. Tenho experiência em Back-End, Front-End e arquitetura de microsserviços.
