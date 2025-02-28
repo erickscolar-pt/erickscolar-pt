@@ -28,6 +28,11 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Trab
 🔹 **Full Stack Developer** - LAMPP-IT SOLUTIONS (Nov/2022 - Mai/2024)  
 🔹 **Full Stack Developer** - ATMA Soluções em Atendimento (Set/2021 - Nov/2023)  
 
+## 📊 Estatísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickscolar-pt&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+</p>
+
 <h3 align="left">Entre em contato comigo em:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erickscolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erickscolar" height="30" width="40" /></a>
@@ -35,14 +40,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Trab
 <a href="https://fb.com/erickscolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erickscolar" height="30" width="40" /></a>
 <a href="https://instagram.com/erickscolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erickscolar" height="30" width="40" /></a>
 <a href="https://discord.gg/erickscolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="erickscolar" height="30" width="40" /></a>
+  
+- 📫 How to reach me **erick.scolar@outlook.com**
+
 </p>
-
-
-## 📊 Estatísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickscolar-pt&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-</p>
-
-## 📫 Contato
-📩 Email: [erick.scolar@outlook.com](mailto:erick.scolar@outlook.com)  
-🔗 LinkedIn: [erickscolar](https://www.linkedin.com/in/erickscolar/)  
