@@ -1,4 +1,7 @@
 <h1 align="center">Olá, eu sou o Erick Scolar! 🚀</h1>
+<p align="center">
+  <img src="https://github.com/erickscolar-pt/erickscolar-pt/raw/main/banner.png" alt="Banner Erick Scolar">
+</p>
 
 ## 🚀 Sobre mim  
 Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Trabalho com **Java, TypeScript, JavaScript** e frameworks como **Spring Boot, NestJS, Angular e React**. Tenho experiência em Back-End, Front-End e arquitetura de microsserviços.
@@ -11,9 +14,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Trab
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erickscolar-pt&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickscolar-pt&layout=compact&theme=radical)
-
 ## 💼 Experiência Profissional
 🔹 **Desenvolvedor Java** - RGR (Jul/2024 - Atual)  
 🔹 **Full Stack Developer** - b8one (Dez/2023 - Jun/2024)  
@@ -23,6 +23,8 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Trab
 ## 📊 Estatísticas GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erickscolar-pt&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erickscolar-pt&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickscolar-pt&layout=compact&theme=radical)
 </p>
 
 ## 📫 Contato
